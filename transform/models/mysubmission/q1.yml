@@ -1,11 +1,10 @@
-models:
-  - name: q1
-    description: >
-      Answer to Q1 of take home test
-    meta:
-      owner: candidate@foodpanda.com
-    columns:
-      - country_name
-        description: Name of country.
-      - total_gmv
-        description: GMV calculated for each country.
+[{
+  "country_name": "Taiwan",
+  "gmv_total": "17889.23"
+}, {
+  "country_name": "Singapore",
+  "gmv_total": "3424.75"
+}, {
+  "country_name": "Thailand",
+  "gmv_total": "1658.26"
+}]
